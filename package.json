@@ -1,0 +1,49 @@
+{
+  "_from": "ionic-pullup@^5.0.0-beta.3",
+  "_id": "ionic-pullup@5.0.0-beta.3",
+  "_inBundle": false,
+  "_integrity": "sha512-BqoszHS9i1wm09/om+OaKcnSj3+6nxHhHrq4emrvKjidrykrloNiZKJzlik1aJAbkKN28sq7L2u90HPTrqTlDQ==",
+  "_location": "/ionic-pullup",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ionic-pullup@^5.0.0-beta.3",
+    "name": "ionic-pullup",
+    "escapedName": "ionic-pullup",
+    "rawSpec": "^5.0.0-beta.3",
+    "saveSpec": null,
+    "fetchSpec": "^5.0.0-beta.3"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ionic-pullup/-/ionic-pullup-5.0.0-beta.3.tgz",
+  "_shasum": "c8d1b2cd50bf0646bcedf742bcd3bbf2367756bd",
+  "_spec": "ionic-pullup@^5.0.0-beta.3",
+  "_where": "E:\\ionic4\\seoPLusApp",
+  "bundleDependencies": false,
+  "dependencies": {
+    "tslib": "^1.10.0"
+  },
+  "deprecated": false,
+  "description": "This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.3.",
+  "es2015": "fesm2015/ionic-pullup.js",
+  "esm2015": "esm2015/ionic-pullup.js",
+  "esm5": "esm5/ionic-pullup.js",
+  "fesm2015": "fesm2015/ionic-pullup.js",
+  "fesm5": "fesm5/ionic-pullup.js",
+  "main": "bundles/ionic-pullup.umd.js",
+  "metadata": "ionic-pullup.metadata.json",
+  "module": "fesm5/ionic-pullup.js",
+  "name": "ionic-pullup",
+  "peerDependencies": {
+    "@angular/common": "~9.1.12",
+    "@angular/core": "~9.1.12",
+    "hammerjs": "^2.0.8"
+  },
+  "sideEffects": false,
+  "typings": "ionic-pullup.d.ts",
+  "version": "5.0.0-beta.3"
+}
